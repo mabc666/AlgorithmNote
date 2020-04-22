@@ -23,7 +23,7 @@ import java.util.*;
  * @author mabc
  * @date 2020/4/20
  */
-public class ArrayDuplicateElement {
+public class DuplicationInArray {
     public static List<Integer> findDuplicates(int[] nums) {
         //创建返回的重复元素数组
         List<Integer> result =  new ArrayList<Integer>();

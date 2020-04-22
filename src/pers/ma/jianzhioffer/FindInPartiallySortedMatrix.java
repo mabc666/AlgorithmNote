@@ -24,7 +24,7 @@ package pers.ma.jianzhioffer;
  * @author mabc
  * @date 2020/4/20
  */
-public class SearchElementInOrdered2DArray {
+public class FindInPartiallySortedMatrix {
     public static boolean findElement(int[][] orderedArray, int target){
         //保存行列数
         int row = orderedArray.length;

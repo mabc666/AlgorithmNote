@@ -22,7 +22,7 @@ import java.util.Stack;
  * @author mabc
  * @date 2020/4/21
  */
-public class ReversePrintLinkList {
+public class PrintListInReversedOrder {
     public static void reversePrint(List<Character> list)
     {
         Stack<Character> stack  = new Stack<>();

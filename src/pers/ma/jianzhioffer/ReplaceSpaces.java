@@ -24,7 +24,7 @@ package pers.ma.jianzhioffer;
  * @author mabc
  * @date 2020/4/20
  */
-public class ReplaceSpaceInString {
+public class ReplaceSpaces {
     public static String replaceSapce(String str){
 
         String result = null;

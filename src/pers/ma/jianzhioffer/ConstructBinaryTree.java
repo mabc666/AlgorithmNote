@@ -28,7 +28,7 @@ import java.util.List;
  * @date 2020/4/21
  */
 
-public class RebuildBinaryTreeByPreoderAndInorder {
+public class ConstructBinaryTree {
     //构造结点类
     static class TreeNode {
         //简化一下树的结构，只使用结点
